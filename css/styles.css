@@ -79,7 +79,7 @@ p{
 }
 
 .testimonial-text{
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.5;
   font-weight: 900;
 }
@@ -88,6 +88,12 @@ p{
   border-radius: 100%;
   margin: 20px;
 }
+.mori-img{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
 /* press section */
 .press{
   background-color: #ef8172;
